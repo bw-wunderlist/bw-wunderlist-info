@@ -9,7 +9,7 @@ Pitch: Wunderlist 2.0 takes your traditional to-do list app and automates it. It
 5. Ability to completely delete an item
 6. Ability to easily search / find items
 7. Ability to schedule items and automatically repeat on a weekly or daily or monthly basis
-8. Pags  to display their existing to-do’s for the day, or for the month. Can also view items marked as completed, and deleted items (saved for seven days) 
+8. Pages to display their existing to-do’s for the day, or for the month. Can also view items marked as completed, and deleted items (saved for seven days) 
 
 Stretch: Add the ability to collaborate. Share your lists and work collaboratively on projects with your colleagues, friends and family.  Add notifcation reminders through an API like Twilio (https://www.twilio.com/) or Growl (http://growl.info/) to allow volunteers to be notified when a question is posted in their business type.
 
