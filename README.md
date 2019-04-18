@@ -17,3 +17,7 @@ Stretch: Add the ability to collaborate. Share your lists and work collaborative
 [Technical Design Document](https://docs.google.com/document/d/18CiDLHLYOMZs0B5AVOY6zlAXGbkl250a2WqFEgp3_Y0/edit?usp=sharing)
 
 [API Docs](https://www.notion.so/relayma/Docs-d045305aeb35483a9f4f461b5359af89)
+
+https://wunderlist2.netlify.com/
+
+https://wunderlist24.netlify.com/
